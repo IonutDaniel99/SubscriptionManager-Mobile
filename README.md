@@ -37,12 +37,12 @@ npx react-native run-android
 
 ## Screenshots ([Other Images](https://imgur.com/a/ZlbzRAt))
 
-<img src="https://github.com/user-attachments/assets/54ce2bef-1b68-4311-aba9-750ace954ffb" alt="HomePage1" width="300" height="632"/>
-<img src="https://github.com/user-attachments/assets/6f012ea2-9ada-4200-a191-ebbfc01813dc" alt="Edit Subscription 1" width="300" height="632"/>
-<img src="https://github.com/user-attachments/assets/43c12cfd-cf76-4991-8f72-1fc7e65c32c2" alt="statistics1" width="300" height="632"/>
-<img src="https://github.com/user-attachments/assets/dc72af30-a33a-4025-bf58-af8c2bf0c3a1" alt="Settings" width="300" height="632"/>
-<img src="https://github.com/user-attachments/assets/15a4a423-525f-4132-b65d-93630a1e78c7" alt="homepage3" width="300" height="632"/>
-<img src="https://github.com/user-attachments/assets/1061b319-5aa4-4238-852e-e42ab4c0f2ff" alt="HomePage2" width="300" height="632"/>
+<img src="https://github.com/user-attachments/assets/54ce2bef-1b68-4311-aba9-750ace954ffb" alt="HomePage1" width="264" height="564"/>
+<img src="https://github.com/user-attachments/assets/6f012ea2-9ada-4200-a191-ebbfc01813dc" alt="Edit Subscription 1" width="264" height="564"/>
+<img src="https://github.com/user-attachments/assets/43c12cfd-cf76-4991-8f72-1fc7e65c32c2" alt="statistics1" width="264" height="564"/>
+<img src="https://github.com/user-attachments/assets/dc72af30-a33a-4025-bf58-af8c2bf0c3a1" alt="Settings" width="264" height="564"/>
+<img src="https://github.com/user-attachments/assets/15a4a423-525f-4132-b65d-93630a1e78c7" alt="homepage3" width="264" height="564"/>
+<img src="https://github.com/user-attachments/assets/1061b319-5aa4-4238-852e-e42ab4c0f2ff" alt="HomePage2" width="264" height="564"/>
 
 
 
