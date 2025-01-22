@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-indicators/src/components/bar-indicator/index.js b/node_modules/react-native-indicators/src/components/bar-indicator/index.js
+index ad06a55..133949e 100644
+--- a/node_modules/react-native-indicators/src/components/bar-indicator/index.js
++++ b/node_modules/react-native-indicators/src/components/bar-indicator/index.js
+@@ -94,7 +94,7 @@ export default class BarIndicator extends PureComponent {
+     };
+ 
+     return (
+-      <View style={containerStyle} {...{ key: index }}>
++      <View style={containerStyle} key={index}>
+         <Animated.View style={topStyle} />
+         <Animated.View style={bottomStyle} />
+       </View>

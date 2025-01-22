@@ -1,0 +1,14 @@
+
+
+Build Debug APK 
+
+npx react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res/
+
+cd android && gradlew assembleDebug
+
+#3: go to app/build/outputs/apk/debug/app-debug.apk
+
+
+Build apk for google
+
+npx react-native build-android --mode=release

@@ -1,0 +1,9 @@
+{
+    "name": "SubscriptionManager",
+    "displayName": "SubscriptionManager",
+    "react-native-google-mobile-ads": {
+        "android_app_id": "ca-app-pub-3092893886853685~2072700424",
+        "ios_app_id": "ca-app-pub-3092893886853685~2072700424",
+        "banner_id": "ca-app-pub-3092893886853685/9329880511"
+    }
+}
